@@ -1,20 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1, Три сестры 5
-https://data01-cdn.11cdn.org/fi2lm/4508e695f0119bc0b02dbfce1e0a4fcd/7f_58.Uc.Kiz.Kardes.v1a1.25.10.23.mp4
 #EXTINF:-1, Три сестры 6
 https://data04-cdn.11cdn.org/fi2lm/4508e695f0119bc0b02dbfce1e0a4fcd/7f_59.Uc.Kiz.Kardes.v1a1.01.11.23.mp4
 #EXTINF:-1, Три сестры 7
 https://data01-cdn.11cdn.org/fi2lm/842e20868213dbb2c7856c023c24cb99/7f_Uc.Kiz.Kardes60.v1a1.01.11.23.mp4
-#EXTINF:-1, Лейла 39
-https://svd6.kvb.cool/video_mp4/serials/LeylaAdalet/58b826b50fcd6156eb389bec6ba18a0f/s01e39.mp4
-#EXTINF:-1, Волчий берег 13
-https://s12.kvb.cool/video_mp4/serials/VolchiyBereg/54ba3d1d3166af4d0f991b20cbb3c7be/s01e13.mp4
-#EXTINF:-1, Волчий берег 14
-https://s12.kvb.cool/video_mp4/serials/VolchiyBereg/54ba3d1d3166af4d0f991b20cbb3c7be/s01e14.mp4
-#EXTINF:-1, Волчий берег 15
-https://s12.kvb.cool/video_mp4/serials/VolchiyBereg/54ba3d1d3166af4d0f991b20cbb3c7be/s01e15.mp4
-#EXTINF:-1, Волчий берег 16
-https://s12.kvb.cool/video_mp4/serials/VolchiyBereg/54ba3d1d3166af4d0f991b20cbb3c7be/s01e16.mp4
+#EXTINF:-1, Три сестры 8
+https://data02-cdn.11cdn.org/fi2lm/abf83eb434dcf15b4e2c5aa2dbbb59f5/7f_Uc.Kiz.Kardes61.v1a1.10.11.23.mp4
+#EXTINF:-1, Лейла 40
+https://svd6.kvb.cool/video_mp4/serials/LeylaAdalet/eb2e5fbc069244b0bf367817f3e6bfa6/s01e40.mp4
 #EXTINF:-1, Старушки в бегах 1
 https://svd8.kvb.cool/video_mp4/serials/StarushkiKanikuly/1c9bed500ae83e1258423c803c7b33d6/s01e01.mp4
 #EXTINF:-1, Старушки в бегах 2
@@ -23,3 +15,7 @@ https://svd8.kvb.cool/video_mp4/serials/StarushkiKanikuly/1c9bed500ae83e1258423c
 https://svd8.kvb.cool/video_mp4/serials/StarushkiKanikuly/1c9bed500ae83e1258423c803c7b33d6/s01e03.mp4
 #EXTINF:-1, Старушки в бегах 4
 https://svd8.kvb.cool/video_mp4/serials/StarushkiKanikuly/1c9bed500ae83e1258423c803c7b33d6/s01e04.mp4
+#EXTINF:-1, Старушки в бегах 5
+https://svd8.kvb.cool/video_mp4/serials/StarushkiKanikuly/714346fe372e3774e7a807ffa3a402a3/s01e05.mp4
+#EXTINF:-1, Старушки в бегах 6
+https://svd8.kvb.cool/video_mp4/serials/StarushkiKanikuly/714346fe372e3774e7a807ffa3a402a3/s01e06.mp4
