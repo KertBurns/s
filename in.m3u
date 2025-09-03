@@ -1,24 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1, Глаза Черного моря 1
-https://temp-cdn.11cdn.org/fi2lm/6c94a23258090f09c312d9a943bdb3e3/7f_Gzleri.Karadeniz.NO.NAME.s1.ep01.v1a1.03.09.25.mp4
-#EXTINF:-1, Последний из стаи 1
-https://data11-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Poslednij.iz.stai.S01.E01.2023.WEB-DL.1080p.ExKinoRay.v1a1.20.05.25.mp4
-#EXTINF:-1, Последний из стаи 2
-https://data01-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Poslednij.iz.stai.S01.E02.2023.WEB-DL.1080p.ExKinoRay.v1a1.20.05.25.mp4
-#EXTINF:-1, Последний из стаи 3
-https://data01-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Poslednij.iz.stai.S01.E03.2023.WEB-DL.1080p.ExKinoRay.v1a1.20.05.25.mp4
-#EXTINF:-1, Последний из стаи 4
-https://data01-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Poslednij.iz.stai.S01.E04.2023.WEB-DL.1080p.ExKinoRay.v1a1.20.05.25.mp4
-#EXTINF:-1, Последний из стаи 5
-https://data11-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_05..Posledniy.iz.stai.2025.WEB-DL.720p.Files-x.v1a1.21.05.25.mp4
-#EXTINF:-1, Последний из стаи 6
-https://data11-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_06..Posledniy.iz.stai.2025.WEB-DL.720p.Files-x.v1a1.21.05.25.mp4
-#EXTINF:-1, Песня жизни 3
-https://data01-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Hayat.Sarkisi.s01.e03.WEB-DLRip720p.v1a1.26.07.25.mp4
-#EXTINF:-1, Песня жизни 4
-https://data04-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Hayat.Sarkisi.s01.e04.WEB-DLRip720p.v1a1.26.07.25.mp4
-#EXTINF:-1, Песня жизни 5
-https://data01-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Hayat.Sarkisi.s01.e05.WEB-DLRip720p.v1a1.26.07.25.mp4
+https://s2.militorys.net/files/vod/turk/glazachernogomoryas1e1_alisa_276368/hls/1080/index.m3u8
 #EXTINF:-1, Песня жизни 6
 https://data01-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Hayat.Sarkisi.s01.e06.WEB-DLRip720p.v1a1.26.07.25.mp4
 #EXTINF:-1, Песня жизни 7
@@ -49,3 +31,33 @@ https://data04-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Hayat.Sar
 https://data04-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Hayat.Sarkisi.s01.e19.WEB-DLRip720p.v1a1.26.07.25.mp4
 #EXTINF:-1, Песня жизни 20
 https://data04-cdn.11cdn.org/fi2lm/26725d58752a867c944cd08daef09dfd/7f_Hayat.Sarkisi.s01.e20.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 21
+https://data08-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e21.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 22
+https://data05-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e22.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 23
+https://data08-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e23.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 24
+https://data01-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e24.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 25
+https://data05-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e25.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 26
+https://data01-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e26.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 27
+https://data01-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e27.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 28
+https://data08-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e28.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 29
+https://data01-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e29.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 30
+https://data11-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e30.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 31
+https://data02-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e31.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 32
+https://data01-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e32.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 33
+https://data02-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e33.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 34
+https://data01-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e34.WEB-DLRip720p.v1a1.26.07.25.mp4
+#EXTINF:-1, Песня жизни 35
+https://data05-cdn.11cdn.org/fi2lm/01b1811a52d433a0c2fc430d1572687b/7f_Hayat.Sarkisi.s01.e35.WEB-DLRip720p.v1a1.26.07.25.mp4
