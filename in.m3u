@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1, Дети рая 1
+https://s1.militorys.net/files/vod/turk/detirayas1e1_alisadirilis_276989/hls/360/index.m3u8
+#EXTINF:-1, Далекий город 29
+https://s1.militorys.net/files/vod/turk/dalekij_s01e29_coldfilm_277004/hls/360/index.m3u8
 #EXTINF:-1, Орлинская. Нити Мойры 1
 https://svd4.kvb.cool/video_mp4/serials/OrlinMoyra/eddba0d9d3f3a1d429318102e7027406/s01e01.mp4
 #EXTINF:-1, Орлинская. Нити Мойры 2
