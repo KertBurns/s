@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1, Преемник 1 мелодрама
+https://s1.militorys.net/files/vod/serials/preemniks01e1alisa_277145/hls/360/index.m3u8
+#EXTINF:-1, Любовь по принуждению 3 мелодрама
+https://svd4.kvb.cool/video_mp4/serials/LubovPrinujdenie/05d8c9f3a5d496e4c123f8f26976d8ac/s01e03.mp4
+#EXTINF:-1, Любовь по принуждению 4 мелодрама
+https://svd4.kvb.cool/video_mp4/serials/LubovPrinujdenie/05d8c9f3a5d496e4c123f8f26976d8ac/s01e04.mp4
 #EXTINF:-1, Похищенная 1 мелодрама
 https://s12.kvb.cool/video_mp4/serials/Pohishenayar/5b257bfeb896b99580b93db37e644a74/s01e01.mp4
 #EXTINF:-1, Похищенная 2 мелодрама
@@ -23,18 +29,6 @@ https://svd4.kvb.cool/video_mp4/serials/OtMery/eddba0d9d3f3a1d429318102e7027406/
 https://svd4.kvb.cool/video_mp4/serials/OtMery/eddba0d9d3f3a1d429318102e7027406/s01e03.mp4
 #EXTINF:-1, Отчаянные меры 4 мелодрама
 https://svd4.kvb.cool/video_mp4/serials/OtMery/eddba0d9d3f3a1d429318102e7027406/s01e04.mp4
-#EXTINF:-1, Любовь по принуждению 1 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/LubovPrinujdenie/05d8c9f3a5d496e4c123f8f26976d8ac/s01e01.mp4
-#EXTINF:-1, Любовь по принуждению 2 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/LubovPrinujdenie/05d8c9f3a5d496e4c123f8f26976d8ac/s01e02.mp4
-#EXTINF:-1, Любовь по принуждению 3 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/LubovPrinujdenie/05d8c9f3a5d496e4c123f8f26976d8ac/s01e03.mp4
-#EXTINF:-1, Любовь по принуждению 4 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/LubovPrinujdenie/05d8c9f3a5d496e4c123f8f26976d8ac/s01e04.mp4
-#EXTINF:-1, Песня жизни 4
-https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e071.WEB-DLRip720p.v1a1.03.08.25.mp4
-#EXTINF:-1, Песня жизни 5
-https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e072.WEB-DLRip720p.v1a1.03.08.25.mp4
 #EXTINF:-1, Песня жизни 6
 https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e073.WEB-DLRip720p.v1a1.03.08.25.mp4
 #EXTINF:-1, Песня жизни 7
