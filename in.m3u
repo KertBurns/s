@@ -1,51 +1,112 @@
 ﻿#EXTM3U
-<<<<<<< HEAD
-=======
-#EXTINF:-1, Сердцебиение 2 турецкий - мелодрама
-https://s1.militorys.net/files/vod/turk/serdcebienies1e2_alisadirilis_277346/hls/360/index.m3u8
-#EXTINF:-1, Укради мою мечту- мелодрама,комедия
-https://v.mover.uz/bknzdc0_m.mp4
-#EXTINF:-1, Садовник 1 Детектив
-https://v.mover.uz/i8kr6bhs_m.mp4
-#EXTINF:-1, Садовник 2 Детектив
-https://v.mover.uz/t54Vm8Td_m.mp4
-#EXTINF:-1, Садовник 3 Детектив
-https://v.mover.uz/IJFqp8vA_m.mp4
->>>>>>> 3746fa3a4280eb94c93ed6bcc211d61e4a2b3a5c
-#EXTINF:-1, Садовник 4 Детектив
-https://v.mover.uz/sSIncsYD_m.mp4
+#EXTINF:-1, Песня жизни 56
+https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e123.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 59
+https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e126.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 60
+https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e127.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 62
+https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e129.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 32
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e099.WEB-DLRip720p.v1a1.26.08.25.mp4
+#EXTINF:-1, Песня жизни 38
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e105.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 40
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e107.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 45
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e112.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 46
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e113.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 49
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e116.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 54
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e121.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 26
+https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e093.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 64
+https://data02-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e131.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 34
+https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e101.WEB-DLRip720p.v1a1.26.08.25.mp4
+#EXTINF:-1, Песня жизни 43
+https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e110.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 50
+https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e117.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 51
+https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e118.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 53
+https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e120.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 55
+https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e122.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 21
+https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e088.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 57
+https://data04-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e124.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 17
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e084.WEB-DLRip720p.v1a1.10.08.25.mp4
+#EXTINF:-1, Песня жизни 33
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e100.WEB-DLRip720p.v1a1.26.08.25.mp4
+#EXTINF:-1, Песня жизни 37
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e104.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 39
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e106.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 41
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e108.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 48
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e115.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 24
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e091.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 25
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e092.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 29
+https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e096.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 61
+https://data05-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e128.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 63
+https://data05-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e130.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 31
+https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e098.WEB-DLRip720p.v1a1.26.08.25.mp4
+#EXTINF:-1, Песня жизни 35
+https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e102.WEB-DLRip720p.v1a1.26.08.25.mp4
+#EXTINF:-1, Песня жизни 22
+https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e089.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 27
+https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e094.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 30
+https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e097.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 65
+https://data08-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e132.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 42
+https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e109.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 44
+https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e111.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 47
+https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e114.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 52
+https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e119.WEB-DLRip720p.v1a1.09.09.25.mp4
+#EXTINF:-1, Песня жизни 58
+https://data11-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e125.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Песня жизни 18
+https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e085.WEB-DLRip720p.v1a1.10.08.25.mp4
+#EXTINF:-1, Песня жизни 19
+https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e086.WEB-DLRip720p.v1a1.10.08.25.mp4
+#EXTINF:-1, Песня жизни 20
+https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e087.WEB-DLRip720p.v1a1.10.08.25.mp4
+#EXTINF:-1, Песня жизни 36
+https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e103.WEB-DLRip720p.v1a1.01.09.25.mp4
+#EXTINF:-1, Песня жизни 23
+https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e090.WEB-DLRip720p.v1a1.16.08.25.mp4
+#EXTINF:-1, Песня жизни 28
+https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e095.WEB-DLRip720p.v1a1.16.08.25.mp4
 #EXTINF:-1, Далекий город 2 сезон 2 серия
 https://s1.coldcdn.xyz/content/stream/serials/uzak.sehir/s2/uzak.sehir.s02e02.720p.coldfilm_108022/hls/360/index.m3u8
-#EXTINF:-1, Укради мою мечту- мелодрама,комедия
-https://v.mover.uz/bknzdc0_m.mp4
-#EXTINF:-1, Дедушка без адреса 1 Мелодрама
-https://v.mover.uz/K4PqPdgW_m.mp4
-#EXTINF:-1, Дедушка без адреса 2 Мелодрама
-https://v.mover.uz/YuYHt5aG_m.mp4
-#EXTINF:-1, Одна ночь и вся жизнь 1 Мелодрама
-https://v.mover.uz/rNxbErKB_m.mp4
-#EXTINF:-1, Одна ночь и вся жизнь 2 Мелодрама
-https://v.mover.uz/uKTWh7E_m.mp4
-#EXTINF:-1, Одна ночь и вся жизнь 3 Мелодрама
-https://v.mover.uz/AZoEROpg_m.mp4
-#EXTINF:-1, Одна ночь и вся жизнь 4 Мелодрама
-https://v.mover.uz/GcYhbgyQ_m.mp4
-#EXTINF:-1, Даниловский тупик 1 мелодрама
-https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e01.mp4
-#EXTINF:-1, Даниловский тупик 2 мелодрама
-https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e02.mp4
-#EXTINF:-1, Даниловский тупик 3 мелодрама
-https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e03.mp4
-#EXTINF:-1, Даниловский тупик 4 мелодрама
-https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e04.mp4
-#EXTINF:-1, Победа любви 1 мелодрама
-https://svd17.kvb.cool/video_mp4/serials/PobedaLubvi/d2ba54a8651dbdf85fedb4597104774a/s01e01.mp4
 #EXTINF:-1, Победа любви 2 мелодрама
 https://svd17.kvb.cool/video_mp4/serials/PobedaLubvi/88f539952de31a21aecb3cf1b371a2cd/s01e02.mp4
 #EXTINF:-1, Победа любви 3 мелодрама
 https://svd17.kvb.cool/video_mp4/serials/PobedaLubvi/88f539952de31a21aecb3cf1b371a2cd/s01e03.mp4
 #EXTINF:-1, Победа любви 4 мелодрама
 https://svd17.kvb.cool/video_mp4/serials/PobedaLubvi/88f539952de31a21aecb3cf1b371a2cd/s01e04.mp4
+#EXTINF:-1, Победа любви 1 мелодрама
+https://svd17.kvb.cool/video_mp4/serials/PobedaLubvi/d2ba54a8651dbdf85fedb4597104774a/s01e01.mp4
 #EXTINF:-1, Отчаянные меры 1 мелодрама
 https://svd4.kvb.cool/video_mp4/serials/OtMery/eddba0d9d3f3a1d429318102e7027406/s01e01.mp4
 #EXTINF:-1, Отчаянные меры 2 мелодрама
@@ -62,101 +123,27 @@ https://svd4.kvb.cool/video_mp4/serials/SlepayaLubov/05aec551907c35fd003c0dd171b
 https://svd4.kvb.cool/video_mp4/serials/SlepayaLubov/05aec551907c35fd003c0dd171b9ff94/s01e03.mp4
 #EXTINF:-1, Слепая любовь 4 мелодрама
 https://svd4.kvb.cool/video_mp4/serials/SlepayaLubov/05aec551907c35fd003c0dd171b9ff94/s01e04.mp4
-#EXTINF:-1, Песня жизни 17
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e084.WEB-DLRip720p.v1a1.10.08.25.mp4
-#EXTINF:-1, Песня жизни 18
-https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e085.WEB-DLRip720p.v1a1.10.08.25.mp4
-#EXTINF:-1, Песня жизни 19
-https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e086.WEB-DLRip720p.v1a1.10.08.25.mp4
-#EXTINF:-1, Песня жизни 20
-https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e087.WEB-DLRip720p.v1a1.10.08.25.mp4
-#EXTINF:-1, Песня жизни 21
-https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e088.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 22
-https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e089.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 23
-https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e090.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 24
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e091.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 25
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e092.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 26
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e093.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 27
-https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e094.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 28
-https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e095.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 29
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e096.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 30
-https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_HayatSarkisi.s02.e097.WEB-DLRip720p.v1a1.16.08.25.mp4
-#EXTINF:-1, Песня жизни 31
-https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e098.WEB-DLRip720p.v1a1.26.08.25.mp4
-#EXTINF:-1, Песня жизни 32
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e099.WEB-DLRip720p.v1a1.26.08.25.mp4
-#EXTINF:-1, Песня жизни 33
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e100.WEB-DLRip720p.v1a1.26.08.25.mp4
-#EXTINF:-1, Песня жизни 34
-https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e101.WEB-DLRip720p.v1a1.26.08.25.mp4
-#EXTINF:-1, Песня жизни 35
-https://data05-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e102.WEB-DLRip720p.v1a1.26.08.25.mp4
-#EXTINF:-1, Песня жизни 36
-https://data11-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e103.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 37
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e104.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 38
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e105.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 39
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e106.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 40
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e107.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 41
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e108.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 42
-https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e109.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 43
-https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e110.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 44
-https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e111.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 45
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e112.WEB-DLRip720p.v1a1.01.09.25.mp4
-#EXTINF:-1, Песня жизни 46
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e113.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 47
-https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e114.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 48
-https://data04-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e115.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 49
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e116.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 50
-https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e117.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 51
-https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e118.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 52
-https://data08-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e119.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 53
-https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e120.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 54
-https://data01-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e121.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 55
-https://data02-cdn.11cdn.org/fi2lm/db133069f0a62056e22a89d691f64f1e/7f_Hayat.Sarkisi.s02.e122.WEB-DLRip720p.v1a1.09.09.25.mp4
-#EXTINF:-1, Песня жизни 56
-https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e123.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 57
-https://data04-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e124.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 58
-https://data11-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e125.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 59
-https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e126.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 60
-https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e127.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 61
-https://data05-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e128.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 62
-https://data01-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e129.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 63
-https://data05-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e130.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 64
-https://data02-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e131.WEB-DLRip720p.v1a1.16.09.25.mp4
-#EXTINF:-1, Песня жизни 65
-https://data08-cdn.11cdn.org/fi2lm/5130db55dec1eadad410f687b24ea241/7f_Hayat.Sarkisi.s02.e132.WEB-DLRip720p.v1a1.16.09.25.mp4
+#EXTINF:-1, Даниловский тупик 1 мелодрама
+https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e01.mp4
+#EXTINF:-1, Даниловский тупик 2 мелодрама
+https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e02.mp4
+#EXTINF:-1, Даниловский тупик 3 мелодрама
+https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e03.mp4
+#EXTINF:-1, Даниловский тупик 4 мелодрама
+https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e04.mp4
+#EXTINF:-1, Одна ночь и вся жизнь 3 Мелодрама
+https://v.mover.uz/AZoEROpg_m.mp4
+#EXTINF:-1, Одна ночь и вся жизнь 4 Мелодрама
+https://v.mover.uz/GcYhbgyQ_m.mp4
+#EXTINF:-1, Дедушка без адреса 1 Мелодрама
+https://v.mover.uz/K4PqPdgW_m.mp4
+#EXTINF:-1, Дедушка без адреса 2 Мелодрама
+https://v.mover.uz/YuYHt5aG_m.mp4
+#EXTINF:-1, Укради мою мечту- мелодрама,комедия
+https://v.mover.uz/bknzdc0_m.mp4
+#EXTINF:-1, Одна ночь и вся жизнь 1 Мелодрама
+https://v.mover.uz/rNxbErKB_m.mp4
+#EXTINF:-1, Садовник 4 Детектив
+https://v.mover.uz/sSIncsYD_m.mp4
+#EXTINF:-1, Одна ночь и вся жизнь 2 Мелодрама
+https://v.mover.uz/uKTWh7E_m.mp4
