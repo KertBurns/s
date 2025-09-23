@@ -1,4 +1,17 @@
 ﻿#EXTM3U
+<<<<<<< HEAD
+=======
+#EXTINF:-1, Сердцебиение 2 турецкий - мелодрама
+https://s1.militorys.net/files/vod/turk/serdcebienies1e2_alisadirilis_277346/hls/360/index.m3u8
+#EXTINF:-1, Укради мою мечту- мелодрама,комедия
+https://v.mover.uz/bknzdc0_m.mp4
+#EXTINF:-1, Садовник 1 Детектив
+https://v.mover.uz/i8kr6bhs_m.mp4
+#EXTINF:-1, Садовник 2 Детектив
+https://v.mover.uz/t54Vm8Td_m.mp4
+#EXTINF:-1, Садовник 3 Детектив
+https://v.mover.uz/IJFqp8vA_m.mp4
+>>>>>>> 3746fa3a4280eb94c93ed6bcc211d61e4a2b3a5c
 #EXTINF:-1, Садовник 4 Детектив
 https://v.mover.uz/sSIncsYD_m.mp4
 #EXTINF:-1, Далекий город 2 сезон 2 серия
