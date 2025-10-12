@@ -1,8 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1, Незнакомец в зеркале тур
+https://s1.militorys.net/files/vod/turk/neznakomec_s01e02_alisadiirlis_279290/hls/360/index.m3u8
 #EXTINF:-1, Это море переполнится 1 тур
-https://temp-cdn.11cdn.org/fi2lm/b56c784287a1190425159aad7de9b2f4/7f_Tasacak.Bu.Deniz.s01.e01.WEB-DLRip1080p.v1a1.11.10.25.mp4
+https://s1.militorys.net/files/vod/turk/more_s01e01_alisadirilis_279270/hls/360/index.m3u8
 #EXTINF:-1, Розы и грехи 1 тур
-https://temp-cdn.11cdn.org/fi2lm/9a83ab7b622b0dd31552b36ab425a296/7f_Guller.ve.Gunahlar.s01.e01.WEB-DLRip1080p.v1a1.12.10.25.mp4
+https://s1.militorys.net/files/vod/turk/rozi_s01e01_alisadirilis_279281/hls/360/index.m3u8
 #EXTINF:-1, Пойраз Караел 9 тур
 https://data11-cdn.11cdn.org/fi2lm/9a83ab7b622b0dd31552b36ab425a296/7f_Poyraz.Karayel.s01.e009.WEB-DLRip1080p.zhekannov.v1a1.27.08.25.mp4
 #EXTINF:-1, Пойраз Караел 10 тур
