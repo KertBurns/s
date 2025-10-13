@@ -1,14 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1, Незнакомец в зеркале 2 тур
 https://s1.militorys.net/files/vod/turk/neznakomec_s01e02_alisadiirlis_279290/hls/360/index.m3u8
-#EXTINF:-1, Это море переполнится 1 тур
-https://s1.militorys.net/files/vod/turk/more_s01e01_alisadirilis_279270/hls/360/index.m3u8
 #EXTINF:-1, Розы и грехи 1 тур
 https://s1.militorys.net/files/vod/turk/rozi_s01e01_alisadirilis_279281/hls/360/index.m3u8
-#EXTINF:-1, Пойраз Караел 9 тур
-https://data11-cdn.11cdn.org/fi2lm/9a83ab7b622b0dd31552b36ab425a296/7f_Poyraz.Karayel.s01.e009.WEB-DLRip1080p.zhekannov.v1a1.27.08.25.mp4
-#EXTINF:-1, Пойраз Караел 10 тур
-https://data08-cdn.11cdn.org/fi2lm/9a83ab7b622b0dd31552b36ab425a296/7f_Poyraz.Karayel.s01.e010.WEB-DLRip1080p.zhekannov.v1a1.27.08.25.mp4
 #EXTINF:-1, Пойраз Караел 11 тур
 https://data04-cdn.11cdn.org/fi2lm/9a83ab7b622b0dd31552b36ab425a296/7f_Poyraz.Karayel.s01.e011.WEB-DLRip1080p.zhekannov.v1a1.03.09.25.mp4
 #EXTINF:-1, Пойраз Караел12 тур
@@ -121,14 +115,6 @@ https://data05-cdn.11cdn.org/fi2lm/abf83eb434dcf15b4e2c5aa2dbbb59f5/7f_02..Odna.
 https://data11-cdn.11cdn.org/fi2lm/abf83eb434dcf15b4e2c5aa2dbbb59f5/7f_03..Odna.noch.i.vsya.zhizn.2025.WEB-DL.1080p.Files-x.v1a1.12.09.25.mp4
 #EXTINF:-1, Одна ночь и вся жизнь 4 Мелодрама
 https://data01-cdn.11cdn.org/fi2lm/abf83eb434dcf15b4e2c5aa2dbbb59f5/7f_04..Odna.noch.i.vsya.zhizn.2025.WEB-DL.1080p.Files-x.v1a1.12.09.25.mp4
-#EXTINF:-1, Счастье по ошибке 1 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/SchasteOshybka/ecc1ef8f0b09b07ca7efb7f7b03caecf/s01e01.mp4
-#EXTINF:-1, Счастье по ошибке 2 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/SchasteOshybka/ecc1ef8f0b09b07ca7efb7f7b03caecf/s01e02.mp4
-#EXTINF:-1, Счастье по ошибке 3 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/SchasteOshybka/ecc1ef8f0b09b07ca7efb7f7b03caecf/s01e03.mp4
-#EXTINF:-1, Счастье по ошибке 4 мелодрама
-https://svd4.kvb.cool/video_mp4/serials/SchasteOshybka/ecc1ef8f0b09b07ca7efb7f7b03caecf/s01e04.mp4
 #EXTINF:-1, Даниловский тупик 1 мелодрама
 https://svd6.kvb.cool/video_mp4/serials/DanilTupik/9e25f01b7fc1f852934a25117cac7c87/s01e01.mp4
 #EXTINF:-1, Даниловский тупик 2 мелодрама
