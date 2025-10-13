@@ -1,12 +1,18 @@
 ﻿#EXTM3U
-#EXTINF:-1, Незнакомец в зеркале 2 тур
-https://s1.militorys.net/files/vod/turk/neznakomec_s01e02_alisadiirlis_279290/hls/360/index.m3u8
 #EXTINF:-1, Розы и грехи 1 тур
 https://s1.militorys.net/files/vod/turk/rozi_s01e01_alisadirilis_279281/hls/360/index.m3u8
+#EXTINF:-1, Незнакомец в зеркале 2 тур
+https://s1.militorys.net/files/vod/turk/neznakomec_s01e02_alisadiirlis_279290/hls/360/index.m3u8
+#EXTINF:-1, Сердцебиение 5 тур
+https://s1.militorys.net/files/vod/turk/serdcebienie_s01e05_alisadirilis_279324/hls/1080/index.m3u8
 #EXTINF:-1, Пойраз Караел 11 тур
 https://data04-cdn.11cdn.org/fi2lm/9a83ab7b622b0dd31552b36ab425a296/7f_Poyraz.Karayel.s01.e011.WEB-DLRip1080p.zhekannov.v1a1.03.09.25.mp4
-#EXTINF:-1, Пойраз Караел12 тур
+#EXTINF:-1, Пойраз Караел 12 тур
 https://data08-cdn.11cdn.org/fi2lm/9a83ab7b622b0dd31552b36ab425a296/7f_Poyraz.Karayel.s01.e012.WEB-DLRip1080p.zhekannov.v1a1.03.09.25.mp4
+#EXTINF:-1, Пойраз Караел 13 тур
+https://data01-cdn.11cdn.org/fi2lm/6899dcd22a8ba3a16359fc4094124f45/7f_Poyraz.Karayel.s01.e013.WEB-DLRip1080p.zhekannov.v1a1.03.09.25.mp4
+#EXTINF:-1, Пойраз Караел 14 тур
+https://data11-cdn.11cdn.org/fi2lm/6899dcd22a8ba3a16359fc4094124f45/7f_Poyraz.Karayel.s01.e014.WEB-DLRip1080p.zhekannov.v1a1.03.09.25.mp4
 #EXTINF:-1, Здесь все свои 1 мелодрама
 https://svd8.kvb.cool/video_mp4/serials/ZdesvseSvoi/03b62898675b3552dad434c6c41f073c/s01e01.mp4
 #EXTINF:-1, Здесь все свои 2 мелодрама
@@ -75,14 +81,6 @@ https://svd9.kvb.cool/video_mp4/serials/PapaVseh/3efc067f92043ee3d41362fa2aed2fc
 https://v.mover.uz/fgLNaJsK_m.mp4
 #EXTINF:-1, Ищу девушку с голубыми глазами 2 Мелодрама
 https://v.mover.uz/5oCQE8gP_m.mp4
-#EXTINF:-1, В круге света 1 Мелодрама
-https://v.mover.uz/aaZ3a4R3_m.mp4
-#EXTINF:-1, В круге света 2 Мелодрама
-https://v.mover.uz/1xyezrA_m.mp4
-#EXTINF:-1, В круге света 3 Мелодрама
-https://v.mover.uz/YCkNKzVN_m.mp4
-#EXTINF:-1, В круге света 4 Мелодрама
-https://v.mover.uz/AUA3Utjk_m.mp4
 #EXTINF:-1, Роковой мужчина 1 Мелодрама , Детектив
 https://v.mover.uz/s5B52MiL_m.mp4
 #EXTINF:-1, Роковой мужчина 2 Мелодрама , Детектив
