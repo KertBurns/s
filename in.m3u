@@ -1,16 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1, Ронин 17
-https://temp-cdn.11cdn.org/fi2lm/462b95712c66b5e55a6689a6875b1f04/7f_Ronin.S02E17.2025WEB-DL.1080p.v1a1.20.10.25.mp4
-#EXTINF:-1, Ронин 18
-https://temp-cdn.11cdn.org/fi2lm/462b95712c66b5e55a6689a6875b1f04/7f_Ronin.S02E18.2025WEB-DL.1080p.v1a1.20.10.25.mp4
-#EXTINF:-1, Незнакомец в зеркале 3 тур
-https://temp-cdn.11cdn.org/fi2lm/5957e42be85ba52aac2a711b54c2fdd3/7f_Aynadaki.Yabanci.s01.e03.WEB-DLRip1080p.v1a1.20.10.25.mp4
+#EXTINF:-1, Ронин 19
+https://temp-cdn.11cdn.org/fi2lm/b56c784287a1190425159aad7de9b2f4/7f_39.Ronin.s02.E19.2025.HDTV.1080r.by.Nicodem.Files-x.v1a1.21.10.25.mp4
+#EXTINF:-1, Ронин 20
+https://temp-cdn.11cdn.org/fi2lm/b56c784287a1190425159aad7de9b2f4/7f_40.Ronin.s02.E20.2025.HDTV.1080r.by.Nicodem.Files-x.v1a1.21.10.25.mp4
+#EXTINF:-1, Далекий город 34
+https://s1.militorys.net/files/vod/turk/dalekij_s01e34_coldfilm_279734/hls/360/index.m3u8
 #EXTINF:-1, Сердцебиение 6 тур
 https://temp-cdn.11cdn.org/fi2lm/462b95712c66b5e55a6689a6875b1f04/7f_Carpinti.s01.e06.WEB-DLRip1080p.v1a1.20.10.25.mp4
-#EXTINF:-1, Мошенники 2 тур
-https://temp-cdn.11cdn.org/fi2lm/462b95712c66b5e55a6689a6875b1f04/7f_Sahtekarlar.s01.e02.WEB-DLRip1080p.v1a1.20.10.25.mp4
-#EXTINF:-1, Песня жизни 96
-https://data11-cdn.11cdn.org/fi2lm/5957e42be85ba52aac2a711b54c2fdd3/7f_Hayat.Sarkisi.s02.e163.WEB-DLRip720p.v1a1.14.10.25.mp4
 #EXTINF:-1, Песня жизни 97
 https://data01-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e164.WEB-DLRip720p.v1a1.14.10.25.mp4
 #EXTINF:-1, Песня жизни 98
@@ -19,6 +15,10 @@ https://data02-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sar
 https://data11-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e166.WEB-DLRip720p.v1a1.14.10.25.mp4
 #EXTINF:-1, Песня жизни 100
 https://data04-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e167.WEB-DLRip720p.v1a1.14.10.25.mp4
+#EXTINF:-1, Песня жизни 101
+https://data01-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e168.WEB-DLRip720p.v1a1.14.10.25.mp4
+#EXTINF:-1, Песня жизни 102
+https://data05-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e169.WEB-DLRip720p.v1a1.14.10.25.mp4
 #EXTINF:-1, Приют счастья 1 детектив
 https://svd2.kvb.cool/video_mp4/serials/PriutSchastya/9d9d7842dd10c7762c92aaa2a6b1c3ec/s01e01.mp4
 #EXTINF:-1, Приют счастья 2 детектив
