@@ -1,22 +1,16 @@
 ﻿#EXTM3U
-#EXTINF:-1, Ронин 23
-https://temp-cdn.11cdn.org/fi2lm/27f5e73c0a8e08472d378053f501b84d/7f_43.Ronin.s02.E23.2025.HDTV.1080r.by.Nicodem.Files-x.v1a1.23.10.25.mp4
-#EXTINF:-1, Ронин 24
-https://temp-cdn.11cdn.org/fi2lm/27f5e73c0a8e08472d378053f501b84d/7f_44.Ronin.s02.E24.2025.HDTV.1080r.by.Nicodem.Files-x.v1a1.23.10.25.mp4
-#EXTINF:-1, Сердцебиение 6 тур алиса дерелиш
-https://s1.militorys.net/files/vod/turk/serdce_s01e06_alisadirilis_279735/hls/360/index.m3u8
 #EXTINF:-1, Сердцебиение 6 тур
 https://temp-cdn.11cdn.org/fi2lm/a2e92d5ec9df0bd72e04f5ccde684f5a/7f_Carpinti.s01.e06.WEB-DLRip1080p.v1a1.23.10.25.mp4
-#EXTINF:-1, Песня жизни 100
-https://data04-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e167.WEB-DLRip720p.v1a1.14.10.25.mp4
-#EXTINF:-1, Песня жизни 101
-https://data01-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e168.WEB-DLRip720p.v1a1.14.10.25.mp4
-#EXTINF:-1, Песня жизни 102
-https://data05-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e169.WEB-DLRip720p.v1a1.14.10.25.mp4
+#EXTINF:-1, Сердцебиение 6 тур алиса дерелиш
+https://s1.militorys.net/files/vod/turk/serdce_s01e06_alisadirilis_279735/hls/360/index.m3u8
 #EXTINF:-1, Песня жизни 103
 https://data01-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e170.WEB-DLRip720p.v1a1.14.10.25.mp4
 #EXTINF:-1, Песня жизни 104
 https://data02-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e171.WEB-DLRip720p.v1a1.14.10.25.mp4
+#EXTINF:-1, Песня жизни 105
+https://data01-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e172.WEB-DLRip720p.v1a1.14.10.25.mp4
+#EXTINF:-1, Песня жизни 106
+https://data02-cdn.11cdn.org/fi2lm/c67b7dde85fdaf2fa36a3c8ced003f58/7f_Hayat.Sarkisi.s02.e173.WEB-DLRip720p.v1a1.14.10.25.mp4
 #EXTINF:-1, Приют счастья 1 детектив
 https://svd2.kvb.cool/video_mp4/serials/PriutSchastya/9d9d7842dd10c7762c92aaa2a6b1c3ec/s01e01.mp4
 #EXTINF:-1, Приют счастья 2 детектив
