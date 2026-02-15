@@ -1,8 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1, Топрак и Фидан 23
-https://temp-cdn.11cdn.org/fi2lm/1f59c38457cd0ce3e47d6c4ad1213eff/7f_Toprak.ile.Fidan.NO.NAME.s1.ep23.v2a1.14.02.26.mp4
-#EXTINF:-1, Топрак и Фидан 24
-https://temp-cdn.11cdn.org/fi2lm/1f59c38457cd0ce3e47d6c4ad1213eff/7f_Toprak.ile.Fidan.NO.NAME.s1.ep24.v2a1.14.02.26.mp4
 #EXTINF:-1, Между 15 турция
 https://data05-cdn.11cdn.org/fi2lm/1f59c38457cd0ce3e47d6c4ad1213eff/7f_Arafta.NO.NAME.s1.ep15.v1a1.04.12.25.mp4
 #EXTINF:-1, Между 16 турция
@@ -11,14 +7,24 @@ https://data08-cdn.11cdn.org/fi2lm/1f59c38457cd0ce3e47d6c4ad1213eff/7f_Arafta.NO
 https://data04-cdn.11cdn.org/fi2lm/1f59c38457cd0ce3e47d6c4ad1213eff/7f_Arafta.NO.NAME.s1.ep17.v1a1.07.12.25.mp4
 #EXTINF:-1, Между 18 турция
 https://data05-cdn.11cdn.org/fi2lm/1f59c38457cd0ce3e47d6c4ad1213eff/7f_Arafta.NO.NAME.s1.ep18.v1a1.10.12.25.mp4
-#EXTINF:-1, Полюби меня снова 1 мелодрамма
-https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/57d2cb2f2125732f18537b9e24e42503/s01e01.mp4
-#EXTINF:-1, Полюби меня снова 2 мелодрамма
-https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/57d2cb2f2125732f18537b9e24e42503/s01e02.mp4
-#EXTINF:-1, Полюби меня снова 3 мелодрамма
-https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/57d2cb2f2125732f18537b9e24e42503/s01e03.mp4
-#EXTINF:-1, Полюби меня снова 4 мелодрамма
-https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/57d2cb2f2125732f18537b9e24e42503/s01e04.mp4
+#EXTINF:-1, Это море переполнится 18
+https://svd8.kvb.cool/video_mp4/serials/TasacakBuDeniz/9dd7b2047f8232d729d45d0c057ae4e7/s01e18.mp4
+#EXTINF:-1, Полюби меня снова 5 мелодрамма
+https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/9dd7b2047f8232d729d45d0c057ae4e7/s01e05.mp4
+#EXTINF:-1, Полюби меня снова 6 мелодрамма
+https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/9dd7b2047f8232d729d45d0c057ae4e7/s01e06.mp4
+#EXTINF:-1, Полюби меня снова 7 мелодрамма
+https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/9dd7b2047f8232d729d45d0c057ae4e7/s01e07.mp4
+#EXTINF:-1, Полюби меня снова 8 мелодрамма
+https://svd8.kvb.cool/video_mp4/serials/PolubiSnova/9dd7b2047f8232d729d45d0c057ae4e7/s01e08.mp4
+#EXTINF:-1, Доверие (1972)-1 мелодрамма
+https://data04-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Doverie..1.seriya.v2a1.29.01.26.mp4
+#EXTINF:-1, Доверие (1972)-2 мелодрамма
+https://data01-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Doverie..2.seriya.v2a1.29.01.26.mp4
+#EXTINF:-1, Время-не-ждет (1975)-1 приключения
+https://data05-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Vremya-ne-zhdet..Seriya.1.v2a1.27.01.26.mp4
+#EXTINF:-1, Время-не-ждет (1975)-2 приключения
+https://data04-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Vremya-ne-zhdet..Seriya.2.v2a1.27.01.26.mp4
 #EXTINF:-1, Майор Гром: 1 боевик
 https://s14.kvb.cool/video_mp4/serials/MayorPravila/3c2d55d1372fd934550527a5d26263de/s01e01_480.mp4
 #EXTINF:-1, Майор Гром: 2 боевик
@@ -31,14 +37,6 @@ https://s14.kvb.cool/video_mp4/serials/MayorPravila/3c2d55d1372fd934550527a5d262
 https://s14.kvb.cool/video_mp4/serials/MayorPravila/3c2d55d1372fd934550527a5d26263de/s01e05_480.mp4
 #EXTINF:-1, Майор Гром: 6 боевик
 https://s14.kvb.cool/video_mp4/serials/MayorPravila/3c2d55d1372fd934550527a5d26263de/s01e06_480.mp4
-#EXTINF:-1, Доверие (1972)-1 мелодрамма
-https://data04-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Doverie..1.seriya.v2a1.29.01.26.mp4
-#EXTINF:-1, Доверие (1972)-2 мелодрамма
-https://data01-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Doverie..2.seriya.v2a1.29.01.26.mp4
-#EXTINF:-1, Время-не-ждет (1975)-1 приключения
-https://data05-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Vremya-ne-zhdet..Seriya.1.v2a1.27.01.26.mp4
-#EXTINF:-1, Время-не-ждет (1975)-2 приключения
-https://data04-cdn.11cdn.org/fi2lm/becda08ee9bdfe1e8d9ad9e698ad59b4/7f_Vremya-ne-zhdet..Seriya.2.v2a1.27.01.26.mp4
 #EXTINF:-1, Карта желаний 1 комедия
 https://s15.kvb.cool/video_mp4/serials/KartaJelaniy/65102bfba8283ee0542e420f8773d7c5/s01e01_480.mp4
 #EXTINF:-1, Карта желаний 2 комедия
@@ -103,8 +101,6 @@ https://svd7.kvb.cool/video_mp4/serials/PrazdnikJizn/031338ce8f4226ca59fd171ea3c
 https://svd7.kvb.cool/video_mp4/serials/PrazdnikJizn/031338ce8f4226ca59fd171ea3c16560/s01e03.mp4
 #EXTINF:-1, Праздник жизнь 4 мелодрамма
 https://svd7.kvb.cool/video_mp4/serials/PrazdnikJizn/031338ce8f4226ca59fd171ea3c16560/s01e04.mp4
-#EXTINF:-1, Чисто английские убийства 23-2
-https://data08-cdn.11cdn.org/fi2lm/3b52760cca22f491411e48a797dfef59/7f_Midsomer.Murders.s23e02.HD720p.WEBRip.Rus.RuDub.tv.a1.16.12.22.mp4
 #EXTINF:-1, Чисто английские убийства 23-3
 https://data05-cdn.11cdn.org/fi2lm/3b52760cca22f491411e48a797dfef59/7f_Midsomer.Murders.s23e03.HD720p.WEBRip.Rus.RuDub.tv.a1.16.12.22.mp4
 #EXTINF:-1, Чисто английские убийства 23-4
