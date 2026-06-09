@@ -1,52 +1,28 @@
 ﻿#EXTM3U
+#EXTINF:-1, Пятый канал
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1, НТВ
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1, Это море переполнится 31
 https://svd8.kvb.cool/video_mp4/serials/TasacakBuDeniz/d919a322af236a22275655424e581d8d/s01e31.mp4
-#EXTINF:-1, Ещё 17 -  2 серия
-https://svd8.kvb.cool/video_mp4/serials/DahaYedi/0031645068f42362779e315cdeabbef2/s01e02.mp4
-#EXTINF:-1, История его служанки 2 из 90 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/IstoriyaSlujanky/d919a322af236a22275655424e581d8d/s01e02.mp4
-#EXTINF:-1, История его служанки 3 из 90 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/IstoriyaSlujanky/d919a322af236a22275655424e581d8d/s01e03.mp4
-#EXTINF:-1, История его служанки 4 из 90 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/IstoriyaSlujanky/d919a322af236a22275655424e581d8d/s01e04.mp4
-#EXTINF:-1, Большой потенциал 2 сезон 15 серия
-https://svd.kvb.cool/video_mp4/serials/HighsPotential/eb368e7e9eb82442a003c72ffa5d96a1/s02e15.mp4
-#EXTINF:-1, Большой потенциал 2 сезон 16 серия
-https://svd.kvb.cool/video_mp4/serials/HighsPotential/eb368e7e9eb82442a003c72ffa5d96a1/s02e16.mp4
-#EXTINF:-1, Большой потенциал 2 сезон 17 серия
-https://svd.kvb.cool/video_mp4/serials/HighsPotential/eb368e7e9eb82442a003c72ffa5d96a1/s02e17.mp4
 #EXTINF:-1, Большой потенциал 2 сезон 18 серия
 https://svd.kvb.cool/video_mp4/serials/HighsPotential/4464f6bdb85213b7dd2679504a177521/s02e18.mp4
-#EXTINF:-1, Время Счастливых 1 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e01_480.mp4
-#EXTINF:-1, Время Счастливых 2 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e02_480.mp4
-#EXTINF:-1, Время Счастливых 3 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e03_480.mp4
-#EXTINF:-1, Время Счастливых 4 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e04_480.mp4
-#EXTINF:-1, Время Счастливых 5 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e05_480.mp4
-#EXTINF:-1, Время Счастливых 6 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e06_480.mp4
-#EXTINF:-1, Время Счастливых 7 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e07_480.mp4
-#EXTINF:-1, Время Счастливых 8 драма.комедия
-https://s12.kvb.cool/video_mp4/serials/VremyaSchastlivih/4464f6bdb85213b7dd2679504a177521/s01e08_480.mp4
-#EXTINF:-1, Кормилица 1 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/Kormilica/0d904e42a9bded6203880b16bcc07c4d/s01e01_480.mp4
-#EXTINF:-1, Кормилица 2 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/Kormilica/0d904e42a9bded6203880b16bcc07c4d/s01e02_480.mp4
-#EXTINF:-1, Кормилица 3 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/Kormilica/0d904e42a9bded6203880b16bcc07c4d/s01e03_480.mp4
-#EXTINF:-1, Кормилица 4 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/Kormilica/0d904e42a9bded6203880b16bcc07c4d/s01e04_480.mp4
-#EXTINF:-1, Кормилица 5 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/Kormilica/0d904e42a9bded6203880b16bcc07c4d/s01e05_480.mp4
-#EXTINF:-1, Кормилица 6 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/Kormilica/0d904e42a9bded6203880b16bcc07c4d/s01e06_480.mp4
-#EXTINF:-1, Кормилица 7 мелодрамма
-https://s15.kvb.cool/video_mp4/serials/Kormilica/0d904e42a9bded6203880b16bcc07c4d/s01e07_480.mp4
+#EXTINF:-1, Резервация 1 триллер
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E01.2026.WEB-DL.1080p.ExKinoRay.v2a1.30.01.26.mp4
+#EXTINF:-1, Резервация 2 триллер
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E02.2026.WEB-DL.1080p.ExKinoRay.v2a1.30.01.26.mp4
+#EXTINF:-1, Резервация 3 триллер
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E03.2026.WEB-DL.1080p.ExKinoRay.v2a1.06.02.26.mp4
+#EXTINF:-1, Резервация 4 триллер
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E04.2026.WEB-DL.1080p.ExKinoRay.track1.rus.v2a1.06.02.26.mp4
+#EXTINF:-1, Резервация 5 триллер
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E05.2026.WEB-DL.720p.ExKinoRay.v2a1.13.02.26.mp4
+#EXTINF:-1, Резервация 6 триллер
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E06.2026.WEB-DL.720p.ExKinoRay.v2a1.13.02.26.mp4
+#EXTINF:-1, Резервация 7 триллер
+https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E07.2026.WEB-DL.720p.ExKinoRay.v2a1.20.02.26.mp4
+#EXTINF:-1, Резервация 8 триллер
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E08.2026.WEB-DL.720p.ExKinoRay.v2a1.20.02.26.mp4
 #EXTINF:-1, В сентябре вода холодная 1 детектив
 https://svd3.kvb.cool/video_mp4/serials/Vsentyabre/b4de6a238d54855c3e8fd039287d2072/s01e01.mp4
 #EXTINF:-1, В сентябре вода холодная 2 детектив
@@ -55,35 +31,161 @@ https://svd3.kvb.cool/video_mp4/serials/Vsentyabre/b4de6a238d54855c3e8fd039287d2
 https://svd3.kvb.cool/video_mp4/serials/Vsentyabre/b4de6a238d54855c3e8fd039287d2072/s01e03.mp4
 #EXTINF:-1, В сентябре вода холодная 4 детектив
 https://svd3.kvb.cool/video_mp4/serials/Vsentyabre/b4de6a238d54855c3e8fd039287d2072/s01e04.mp4
-#EXTINF:-1, В круге света 1 мелодрама
-https://data08-cdn.11cdn.org/fi2lm/54028902da58fa5027bf230babd949c0/7f_01..V.kruge.sveta.2025.WEB-DL.1080p.Files-x.v1a1.12.10.25.mp4
-#EXTINF:-1, В круге света 2 мелодрама
-https://data11-cdn.11cdn.org/fi2lm/54028902da58fa5027bf230babd949c0/7f_02...V.kruge.sveta.2025.WEB-DL.1080p.Files-x.v1a1.12.10.25.mp4
-#EXTINF:-1, В круге света 3 мелодрама
-https://data04-cdn.11cdn.org/fi2lm/54028902da58fa5027bf230babd949c0/7f_03..V.kruge.sveta.2025.WEB-DL.1080p.Files-x.v1a1.12.10.25.mp4
-#EXTINF:-1, В круге света 4 мелодрама
-https://data08-cdn.11cdn.org/fi2lm/54028902da58fa5027bf230babd949c0/7f_04..V.kruge.sveta.2025.WEB-DL.1080p.Files-x.v1a1.12.10.25.mp4
-#EXTINF:-1, Судьба повсюду встретится 1 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/SudbaVstretitsya/d8d8f71c52d9130af2526be805584a0b/s01e01.mp4
-#EXTINF:-1, Судьба повсюду встретится 2 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/SudbaVstretitsya/d8d8f71c52d9130af2526be805584a0b/s01e02.mp4
-#EXTINF:-1, Судьба повсюду встретится 3 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/SudbaVstretitsya/d8d8f71c52d9130af2526be805584a0b/s01e03.mp4
-#EXTINF:-1, Судьба повсюду встретится 4 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/SudbaVstretitsya/d8d8f71c52d9130af2526be805584a0b/s01e04.mp4
-#EXTINF:-1, Недостойные наследницы 1 мелодрама
-https://data04-cdn.11cdn.org/fi2lm/6c001a14d5369a97b980abca2c90b1cd/7f_Nedostoynye.naslednicy.s01.e01.2025.1080p.nnm-club.v1a1.27.10.25.mp4
-#EXTINF:-1, Недостойные наследницы 2 мелодрама
-https://data08-cdn.11cdn.org/fi2lm/6c001a14d5369a97b980abca2c90b1cd/7f_Nedostoynye.naslednicy.s01.e02.2025.1080p.nnm-club.v1a1.28.10.25.mp4
-#EXTINF:-1, Недостойные наследницы 3 мелодрама
-https://data01-cdn.11cdn.org/fi2lm/6c001a14d5369a97b980abca2c90b1cd/7f_Nedostoynye.naslednicy.s01.e03.2025.1080p.nnm-club.v1a1.28.10.25.mp4
-#EXTINF:-1, Недостойные наследницы 4 мелодрама
-https://data01-cdn.11cdn.org/fi2lm/6c001a14d5369a97b980abca2c90b1cd/7f_Nedostoynye.naslednicy.s01.e04.2025.1080p.nnm-club.v1a1.28.10.25.mp4
-#EXTINF:-1, Праздник жизнь 1 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/PrazdnikJizn/031338ce8f4226ca59fd171ea3c16560/s01e01.mp4
-#EXTINF:-1, Праздник жизнь 2 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/PrazdnikJizn/031338ce8f4226ca59fd171ea3c16560/s01e02.mp4
-#EXTINF:-1, Праздник жизнь 3 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/PrazdnikJizn/031338ce8f4226ca59fd171ea3c16560/s01e03.mp4
-#EXTINF:-1, Праздник жизнь 4 мелодрамма
-https://svd7.kvb.cool/video_mp4/serials/PrazdnikJizn/031338ce8f4226ca59fd171ea3c16560/s01e04.mp4
+#EXTINF:-1, Женщина в белом 1 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e01_480.mp4
+#EXTINF:-1, Женщина в белом 2 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e02_480.mp4
+#EXTINF:-1, Женщина в белом 3 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e03_480.mp4
+#EXTINF:-1, Женщина в белом 4 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e04_480.mp4
+#EXTINF:-1, Женщина в белом 5 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e05_480.mp4
+#EXTINF:-1, Женщина в белом 6 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e06_480.mp4
+#EXTINF:-1, Женщина в белом 7 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e07_480.mp4
+#EXTINF:-1, Женщина в белом 8 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e08_480.mp4
+#EXTINF:-1, Ночной 1 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e01.mp4
+#EXTINF:-1, Ночной 2 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e02.mp4
+#EXTINF:-1, Ночной 3 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e03.mp4
+#EXTINF:-1, Ночной 4 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e04.mp4
+#EXTINF:-1, Ночной 5 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e05.mp4
+#EXTINF:-1, Ночной 6 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e06.mp4
+#EXTINF:-1, Ночной 7 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e07.mp4
+#EXTINF:-1, Ночной 8 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e08.mp4
+#EXTINF:-1, Ночной 9 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e09.mp4
+#EXTINF:-1, Ночной 10 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e10.mp4
+#EXTINF:-1, Ночной 11 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e11.mp4
+#EXTINF:-1, Ночной 12 детектив
+https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e12.mp4
+#EXTINF:-1, Выход 1 детектив
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_01.Vyhod.s01.E01.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.08.04.26.mp4
+#EXTINF:-1, Выход 2 детектив
+https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_02.Vyhod.s01.E02.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.23.04.26.mp4
+#EXTINF:-1, Выход 3 детектив
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_03.Vyhod.s01.E03.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.23.04.26.mp4
+#EXTINF:-1, Выход 4 детектив
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_04.Vyhod.s01.E04.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.08.05.26.mp4
+#EXTINF:-1, Выход 5 детектив
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_05.Vyhod.s01.E05.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.08.05.26.mp4
+#EXTINF:-1, Выход 6 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_06.Vyhod.s01.E06.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.20.05.26.mp4
+#EXTINF:-1, Выход 7 детектив
+https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_07.Vyhod.s01.E07.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.20.05.26.mp4
+#EXTINF:-1, Выход 8 детектив
+https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_08.Vyhod.s01.E08.2026.WEBRip.1080p.by.Nicodem.Files-x.v2a1.28.05.26.mp4
+#EXTINF:-1, Радар 1 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e01_480.mp4
+#EXTINF:-1, Радар 2 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e02_480.mp4
+#EXTINF:-1, Радар 3 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e03_480.mp4
+#EXTINF:-1, Радар 4 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e04_480.mp4
+#EXTINF:-1, Радар 5 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e05_480.mp4
+#EXTINF:-1, Радар 6 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e06_480.mp4
+#EXTINF:-1, Радар 7 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e07_480.mp4
+#EXTINF:-1, Радар 8 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e08_480.mp4
+#EXTINF:-1, Радар 9 фентази
+https://s15.kvb.cool/video_mp4/serials/Rardarus/d919a322af236a22275655424e581d8d/s01e09_480.mp4
+#EXTINF:-1, Тоннель 1 криминал
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E01.2025.WEB-DL.1080p.ExKinoRay.v1a1.28.11.25.mp4
+#EXTINF:-1, Тоннель 2 криминал
+https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E02.2025.WEB-DL.1080p.ExKinoRay.v1a1.28.11.25.mp4
+#EXTINF:-1, Тоннель 3 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E03.2025.WEB-DL.1080p.ExKinoRay.v1a1.05.12.25.mp4
+#EXTINF:-1, Тоннель 4 криминал
+https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E04.2025.WEB-DL.1080p.ExKinoRay.v1a1.05.12.25.mp4
+#EXTINF:-1, Тоннель 5 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E05.2025.WEB-DL.720p.ExKinoRay.v1a1.12.12.25.mp4
+#EXTINF:-1, Тоннель 6 криминал
+https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E06.2025.WEB-DL.720p.ExKinoRay.v1a1.12.12.25.mp4
+#EXTINF:-1, Тоннель 7 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E07.2025.WEB-DL.1080p.ExKinoRay.v1a1.19.12.25.mp4
+#EXTINF:-1, Тоннель 8 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Tonnel.S01.E08.2025.WEB-DL.1080p.ExKinoRay.v1a1.19.12.25.mp4
+#EXTINF:-1, Страх над Невой 1 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E01.2026.WEB-DL.1080p.ExKinoRay.v2a1.09.04.26.mp4
+#EXTINF:-1, Страх над Невой 2 детектив
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E02.2026.WEB-DL.1080p.ExKinoRay.v2a1.09.04.26.mp4
+#EXTINF:-1, Страх над Невой 3 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E03.2026.WEB-DL.1080p.ExKinoRay.v2a1.09.04.26.mp4
+#EXTINF:-1, Страх над Невой 4 детектив
+https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E04.2026.WEB-DL.1080p.ExKinoRay.v2a1.09.04.26.mp4
+#EXTINF:-1, Страх над Невой 5 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E05.2026.WEB-DL.1080p.ExKinoRay.v2a1.14.04.26.mp4
+#EXTINF:-1, Страх над Невой 6 детектив
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E06.2026.WEB-DL.1080p.ExKinoRay.v2a1.14.04.26.mp4
+#EXTINF:-1, Страх над Невой 7 детектив
+https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E07.2026.WEB-DL.1080p.ExKinoRay.v2a1.14.04.26.mp4
+#EXTINF:-1, Страх над Невой 8 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Strah.nad.nevoy.S02.E08.2026.WEB-DL.1080p.ExKinoRay.v2a1.14.04.26.mp4
+#EXTINF:-1, Майор Гром 1 детектив
+https://s14.kvb.cool/video_mp4/serials/MayorPravila/d919a322af236a22275655424e581d8d/s01e01_480.mp4
+#EXTINF:-1, Майор Гром 2 детектив
+https://s14.kvb.cool/video_mp4/serials/MayorPravila/d919a322af236a22275655424e581d8d/s01e02_480.mp4
+#EXTINF:-1, Майор Гром 3 детектив
+https://s14.kvb.cool/video_mp4/serials/MayorPravila/d919a322af236a22275655424e581d8d/s01e03_480.mp4
+#EXTINF:-1, Майор Гром 4 детектив
+https://s14.kvb.cool/video_mp4/serials/MayorPravila/d919a322af236a22275655424e581d8d/s01e04_480.mp4
+#EXTINF:-1, Майор Гром 5 детектив
+https://s14.kvb.cool/video_mp4/serials/MayorPravila/d919a322af236a22275655424e581d8d/s01e05_480.mp4
+#EXTINF:-1, Майор Гром 6 детектив
+https://s14.kvb.cool/video_mp4/serials/MayorPravila/d919a322af236a22275655424e581d8d/s01e06_480.mp4
+#EXTINF:-1, Высшая мера 1 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E01.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 2 криминал
+https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E02.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 3 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E03.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 4 криминал
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E04.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 5 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E05.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 6 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E06.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 7 криминал
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E07.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 8 криминал
+https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E08.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 9 криминал
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E09.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 10 криминал
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E10.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 11 криминал
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E11.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Высшая мера 12 криминал
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vysshaya.mera.S02.E12.2025.WEB-DL.1080p.ExKinoRay.v2a1.20.04.26.mp4
+#EXTINF:-1, Грачи 1 детектив
+https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E01.2026.WEB-DL.1080p.ExKinoRay.v2a1.02.04.26.mp4
+#EXTINF:-1, Грачи 2 детектив
+https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E02.2026.WEB-DL.1080p.ExKinoRay.v2a1.02.04.26.mp4
+#EXTINF:-1, Грачи 3 детектив
+https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E03.2026.WEB-DL.1080p.ExKinoRay.v2a1.09.04.26.mp4
+#EXTINF:-1, Грачи 4 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E04.2026.WEB-DL.1080p.ExKinoRay.v2a1.09.04.26.mp4
+#EXTINF:-1, Грачи 5 детектив
+https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E05.2026.WEB-DL.1080p.ExKinoRay.v2a1.16.04.26.mp4
+#EXTINF:-1, Грачи 6 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E06.2026.WEB-DL.1080p.ExKinoRay.v2a1.16.04.26.mp4
+#EXTINF:-1, Грачи 7 детектив
+https://data04-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E07.2026.WEB-DL.1080p.ExKinoRay.v2a1.23.04.26.mp4
+#EXTINF:-1, Грачи 8 детектив
+https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Grachi.S01.E08.2026.WEB-DL.1080p.ExKinoRay.v2a1.23.04.26.mp4
