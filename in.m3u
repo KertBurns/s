@@ -1,10 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1, НТВ
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1, 5 Канал
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:-1, Это море переполнится 31
-https://svd8.kvb.cool/video_mp4/serials/TasacakBuDeniz/d919a322af236a22275655424e581d8d/s01e31.mp4
 #EXTINF:-1, Доктор: В другой жизни 1-6 тур
 https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Doktor.s01.e01.WEB-DLRip1080p.v2a1.09.03.26.mp4
 #EXTINF:-1, Доктор: В другой жизни 2-6 тур
@@ -17,6 +11,14 @@ https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Doktor.s0
 https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Doktor.s01.e05.WEB-DLRip1080p.v2a1.06.04.26.mp4
 #EXTINF:-1, Доктор: В другой жизни 6-6 тур
 https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Doktor.s01.e05.WEB-DLRip1080p.v2a1.06.04.26.mp4
+#EXTINF:-1, Женщина в белом 5 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e05_480.mp4
+#EXTINF:-1, Женщина в белом 6 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e06_480.mp4
+#EXTINF:-1, Женщина в белом 7 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e07_480.mp4
+#EXTINF:-1, Женщина в белом 8 детектив
+https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e08_480.mp4
 #EXTINF:-1, Резервация 1 триллер
 https://data01-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Rezervaciya.S01.E01.2026.WEB-DL.1080p.ExKinoRay.v2a1.30.01.26.mp4
 #EXTINF:-1, Резервация 2 триллер
@@ -41,22 +43,6 @@ https://svd3.kvb.cool/video_mp4/serials/Vsentyabre/b4de6a238d54855c3e8fd039287d2
 https://svd3.kvb.cool/video_mp4/serials/Vsentyabre/b4de6a238d54855c3e8fd039287d2072/s01e03.mp4
 #EXTINF:-1, В сентябре вода холодная 4 детектив
 https://svd3.kvb.cool/video_mp4/serials/Vsentyabre/b4de6a238d54855c3e8fd039287d2072/s01e04.mp4
-#EXTINF:-1, Женщина в белом 1 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e01_480.mp4
-#EXTINF:-1, Женщина в белом 2 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e02_480.mp4
-#EXTINF:-1, Женщина в белом 3 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e03_480.mp4
-#EXTINF:-1, Женщина в белом 4 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e04_480.mp4
-#EXTINF:-1, Женщина в белом 5 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e05_480.mp4
-#EXTINF:-1, Женщина в белом 6 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e06_480.mp4
-#EXTINF:-1, Женщина в белом 7 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e07_480.mp4
-#EXTINF:-1, Женщина в белом 8 детектив
-https://s12.kvb.cool/video_mp4/serials/JenchinaBelom/d919a322af236a22275655424e581d8d/s01e08_480.mp4
 #EXTINF:-1, Ночной 1 детектив
 https://s12.kvb.cool/video_mp4/serials/Nochnoy/d919a322af236a22275655424e581d8d/s01e01.mp4
 #EXTINF:-1, Ночной 2 детектив
