@@ -1,14 +1,32 @@
 ﻿#EXTM3U
-#EXTINF:-1, Нажива 2 тур
-https://data05-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vurgun.NO.NAME.s1.ep02.v2a1.09.06.26.mp4
-#EXTINF:-1, Нажива 3 тур
-https://data11-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vurgun.NO.NAME.s1.ep03.v2a1.09.06.26.mp4
-#EXTINF:-1, Нажива 4 тур
-https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vurgun.NO.NAME.s1.ep04.v2a1.09.06.26.mp4
-#EXTINF:-1, Нажива 5 тур
-https://data08-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_Vurgun.DYBLIROVANNYI.s1.Ep05.v2a1.13.06.26.mp4
-#EXTINF:-1, Нажива 6 тур
-https://data00-cdn.11cdn.org/fi2lm/58791e88f3e342d6cd83c5f17a9cdf68/7f_06Vurgun.a1.08.10.19.mp4
+#EXTINF:-1, Последний кадр 1 турция
+https://data01-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e01.HD1080p.WEBRip.Rus.RuDub.tv.v1a1.19.01.26.mp4
+#EXTINF:-1, Последний кадр 2 турция
+https://data08-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e02.HD1080p.WEBRip.Rus.RuDub.tv.v2a1.23.01.26.mp4
+#EXTINF:-1, Последний кадр 3 турция
+https://data11-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e03.HD1080p.WEBRip.Rus.RuDub.tv.v2a1.30.01.26.mp4
+#EXTINF:-1, Последний кадр 4 турция
+https://data08-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e04.HD1080p.WEBRip.Rus.RuDub.tv.v2a1.06.02.26.mp4
+#EXTINF:-1, Последний кадр 5 турция
+https://data04-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e05.HD1080p.WEBRip.Rus.RuDub.tv.v2a1.14.02.26.mp4
+#EXTINF:-1, Последний кадр 6 турция
+https://data01-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e06.HD1080p.WEBRip.Rus.RuDub.tv.v2a1.20.02.26.mp4
+#EXTINF:-1, Последний кадр 7 турция
+https://data11-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e07.HD1080p.WEBRip.Rus.RuDub.tv.v2a1.28.02.26.mp4
+#EXTINF:-1, Последний кадр 8 турция
+https://data08-cdn.11cdn.org/fi2lm/dcd5bb563608bf2f92e0dfae511ede32/7f_Karanlik.Oda.s01e08.HD1080p.WEBRip.Rus.RuDub.tv.v2a1.07.03.26.mp4
+#EXTINF:-1, Гранчестер 1 (Великобритания)
+https://svd2.kvb.cool/video_mp4/serials/Grantchester/4086d693369b8525e5046f7f7cd76567/s01e01.mp4
+#EXTINF:-1, Гранчестер 2 (Великобритания)
+https://svd2.kvb.cool/video_mp4/serials/Grantchester/4086d693369b8525e5046f7f7cd76567/s01e02.mp4
+#EXTINF:-1, Гранчестер 3 (Великобритания)
+https://svd2.kvb.cool/video_mp4/serials/Grantchester/4086d693369b8525e5046f7f7cd76567/s01e03.mp4
+#EXTINF:-1, Гранчестер 4 (Великобритания)
+https://svd2.kvb.cool/video_mp4/serials/Grantchester/4086d693369b8525e5046f7f7cd76567/s01e04.mp4
+#EXTINF:-1, Гранчестер 5 (Великобритания)
+https://svd2.kvb.cool/video_mp4/serials/Grantchester/4086d693369b8525e5046f7f7cd76567/s01e05.mp4
+#EXTINF:-1, Гранчестер 6 (Великобритания)
+https://svd2.kvb.cool/video_mp4/serials/Grantchester/4086d693369b8525e5046f7f7cd76567/s01e06.mp4
 #EXTINF:-1, Кровь за кровь 1 боевик
 https://svd6.kvb.cool/video_mp4/serials/KrovKrov/d919a322af236a22275655424e581d8d/s01e01.mp4
 #EXTINF:-1, Кровь за кровь 2 боевик
@@ -17,6 +35,22 @@ https://svd6.kvb.cool/video_mp4/serials/KrovKrov/d919a322af236a22275655424e581d8
 https://svd6.kvb.cool/video_mp4/serials/KrovKrov/d919a322af236a22275655424e581d8d/s01e03.mp4
 #EXTINF:-1, Кровь за кровь 4 боевик
 https://svd6.kvb.cool/video_mp4/serials/KrovKrov/d919a322af236a22275655424e581d8d/s01e04.mp4
+#EXTINF:-1, Рада 1 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e01_480.mp4
+#EXTINF:-1, Рада 2 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e02_480.mp4
+#EXTINF:-1, Рада 3 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e03_480.mp4
+#EXTINF:-1, Рада 4 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e04_480.mp4
+#EXTINF:-1, Рада 5 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e05_480.mp4
+#EXTINF:-1, Рада 6 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e06_480.mp4
+#EXTINF:-1, Рада 7 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e07_480.mp4
+#EXTINF:-1, Рада 8 детектив
+https://s14.kvb.cool/video_mp4/serials/Radaru/4086d693369b8525e5046f7f7cd76567/s01e08_480.mp4
 #EXTINF:-1, Затмение 1 детектив
 https://s15.kvb.cool/video_mp4/serials/Zatmenier/d919a322af236a22275655424e581d8d/s01e01_480.mp4
 #EXTINF:-1, Затмение 2 детектив
